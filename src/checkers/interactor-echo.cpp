@@ -4,7 +4,7 @@
 using namespace std;
 
 int main(int argc, char *argv[]) {
-    setName("Interactor A+B");
+    setName("Echo interactor");
     registerInteraction(argc, argv);
 
     // reads string from test (input) file
