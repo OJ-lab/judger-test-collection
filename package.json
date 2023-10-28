@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "turndown": "^7.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.9"
+  }
+}

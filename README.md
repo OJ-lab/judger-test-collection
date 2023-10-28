@@ -19,3 +19,9 @@ cmake --install build
 Or you should try `./build.sh` to help you do this.
 
 Then you will get all test file on `dist/`.
+
+## Migrate Description from HTML to Markdown
+
+For the first time, you should install nodejs and run `npm install` to install dependencies.
+
+Then you can run `node html2md.ts <html-file>` to convert HTML to Markdown.
